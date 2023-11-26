@@ -10,6 +10,7 @@
 - 📖 Actualmente estoy por terminar la secundaria
 - 😎 Aspiro a conseguir empleo en esta área en constante crecimiento y poner en práctica mis conocimientos y habilidades
 - 📍 Soy de Buenos Aires, Argentina
+- 😎 Casi todos mis conocimientos los obtuve mediante cursos, pero me gustaria ponerlos en práctica en proyectos que presenten un desafio para mi 
   
 ---
 
