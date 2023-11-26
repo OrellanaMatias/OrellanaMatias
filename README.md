@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ISOckXUybVfQ4/giphy.gif" width="200" />
   <h1 align="center">Hola 👋, soy Matias Orellana</h1>
-  <h3 align="center">Un estudiante con enfoque proactivo y destacables habilidades para resolver problemas.</br>He participado en proyectos que han fortalecido mis habilidades de trabajo en equipo y comunicación. Comprometido con el aprendizaje continuo y enfrentarme a nuevos desafíos.</h3>
+  <h3 align="left">Un estudiante con enfoque proactivo y destacables habilidades para resolver problemas.</br>He participado en proyectos que han fortalecido mis habilidades de trabajo en equipo y comunicación. Comprometido con el aprendizaje continuo y enfrentarme a nuevos desafíos.</h3>
 </div>
 
 ---
