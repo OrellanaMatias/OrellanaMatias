@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ISOckXUybVfQ4/giphy.gif" width="200" />
-  <h1 align="center">Hola 👋, soy Matias Orellana</h1>
+  <h1 align="center">Hola, soy Matias Orellana</h1>
   <h3 align="left">Un estudiante de informática, responsable y entusiasta.</br>Me caracterizo por mi dedicación al aprendizaje continuo y mi interés en desafíos que me ayuden a desarrollar mis habilidades y conocimientos.</h3>
 </div>
 
