@@ -1,19 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ISOckXUybVfQ4/giphy.gif" width="200" />
   <h1 align="center">Hola 👋, soy Matias Orellana</h1>
-  <h3 align="left">Un estudiante con enfoque proactivo y destacables habilidades para resolver problemas.</br>He participado en proyectos que han fortalecido mis habilidades de trabajo en equipo y comunicación. Comprometido con el aprendizaje continuo y enfrentarme a nuevos desafíos.</h3>
+  <h3 align="left">Un estudiante de informática, responsable y entusiasta.</br>Me caracterizo por mi dedicación al aprendizaje continuo y mi interés en desafíos que me ayuden a desarrollar mis habilidades y conocimientos.</h3>
 </div>
-
 ---
 ### Sobre mi :
-
 - 📖 Actualmente estoy por terminar la secundaria
-- 😎 Aspiro a conseguir empleo en esta área en constante crecimiento y poner en práctica mis conocimientos y habilidades
-- 📍 Soy de Buenos Aires, Argentina
-- 😎 Casi todos mis conocimientos los obtuve mediante cursos, pero me gustaria ponerlos en práctica en proyectos que presenten un desafio para mi 
-  
+- 🥶 Aspiro a conseguir empleo en esta área en constante crecimiento y poner en práctica mis conocimientos y habilidades
+- 🥵 Casi todos mis conocimientos los obtuve mediante cursos, pero me gustaria ponerlos en práctica en proyectos que presenten un desafio para mi 
+- 😴 Odio Java zzz
 ---
-
 <div align="left">
   <h3>Languages and tools:</h3>
   <div>
