@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/ISOckXUybVfQ4/giphy.gif" width="200" />
 </div>
 <h1 align="center">✨I'm Matias Orellana✨</h1>
-<h3 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=verdadero&vCenter=verdadero&repeat=verdadero&random=FALSO&width=435&lines=I+never+stop+learning%F0%9F%A5%B1;IT+Student;Web+Developer"/></h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=verdadero&vCenter=verdadero&repeat=verdadero&random=FALSO&width=435&lines=I+never+stop+learning%F0%9F%A5%B1;IT+Student;Web+Developer"/></h3>
 
 <img align="right" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrellanaMatias&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-<br/>
+
 <h3 align="left"> Here's some stuff about me:</h3>
 <ul>
   <li> 🌍 From Argentina </li>
