@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">✨I'm Matias Orellana✨</h1>
 
-<img align="right" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrellanaMatias&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrellanaMatias&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 
 <h3 align="left"> Here's some stuff about me:</h3>
 <ul>
