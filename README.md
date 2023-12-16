@@ -9,7 +9,7 @@
 <ul>
   <li> 🌍 From Argentina </li>
   <li> 🌱 I’m currently learning new technologies everyday 🚀.  </li>
-  <li> 📖 I’m currently studying on <a href="https://www.linkedin.com/in/orellana-matias" onclick="window.open(this.href, '_blank'); return false;">Emilio Lamarca</a></li>
+  <li> 📖 I’m currently studying on <a href="https://www.linkedin.com/in/orellana-matias" target="_blank" rel="noopener noreferrer">Emilio Lamarca</a></li>
   <li> 📫 How to reach me: <a href="mailto:meorellanaramirez@gmail.com">meorellanaramirez@gmail.com</a> </li>
   <li> 📄 My portfolio <a href="https://orellanamatias.github.io/portafolio" target="_blank" rel="noopener noreferrer"> Orellana Matias | Portafolio</a></li>
 </ul>
