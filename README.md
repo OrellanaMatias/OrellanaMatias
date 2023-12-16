@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ISOckXUybVfQ4/giphy.gif" width="200" />
 </div>
-<h1 align="center">✨I'm Matias Orellana✨</h1>
+<h1 align="center">I'm Matias Orellana</h1>
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrellanaMatias&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 
@@ -9,9 +9,9 @@
 <ul>
   <li> 🌍 From Argentina </li>
   <li> 🌱 I’m currently learning new technologies everyday 🚀.  </li>
-  <li> 📖 I’m currently studying on <a href="https://www.linkedin.com/in/orellana-matias" target="_blank">Emilio Lamarca</a> </li>
+  <li> 📖 I’m currently studying on <a href="https://www.linkedin.com/in/orellana-matias" target="_blank" rel="noopener noreferrer">Emilio Lamarca</a> </li>
   <li> 📫 How to reach me: <a href="mailto:meorellanaramirez@gmail.com">meorellanaramirez@gmail.com</a> </li>
-  <li> 📄 My portfolio <a href="https://orellanamatias.github.io/portafolio" target="_blank"> Orellana Matias | Portafolio</a> </li>
+  <li> 📄 My portfolio <a href="https://orellanamatias.github.io/portafolio" target="_blank" rel="noopener noreferrer"> Orellana Matias | Portafolio</a> </li>
 </ul>
 </p>
 <br/>
