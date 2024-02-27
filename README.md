@@ -1,23 +1,23 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ISOckXUybVfQ4/giphy.gif" width="200" />
 </div>
-<h1 align="center">I'm Matias Orellana</h1>
+<h1 align="center">Matias Orellana</h1>
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrellanaMatias&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 
-<h3 align="left"> Here's some stuff about me:</h3>
+<h3 align="left"> Sobre mi:</h3>
 <ul>
-  <li> 🌍 From Argentina </li>
-  <li> 🌱 I’m currently learning new technologies everyday 🚀.  </li>
-  <li> 📫 How to reach me: <a href="mailto:meorellanaramirez@gmail.com">meorellanaramirez@gmail.com</a> </li>
-  <li> 📄 My portfolio <a href="https://orellanamatias.com.ar" target="_blank" rel="noopener noreferrer"> Orellana Matias | Portafolio</a></li>
+  <li> 🌍 Argentina, Buenos Aires </li>
+  <li> 🌱 Todos los dias aprendiendo nuevas tecnologias 🚀.  </li>
+  <li> 📫 Contacto: <a href="mailto:meorellanaramirez@gmail.com">meorellanaramirez@gmail.com</a> </li>
+  <li> 📄 Mi portafolio web <a href="https://orellanamatias.com.ar" target="_blank" rel="noopener noreferrer"> Orellana Matias | Portafolio</a></li>
 </ul>
 </p>
 <br/>
 <br/>
 
 <div align="left">
-  <h3>Languages and tools:</h3>
+  <h3>Lenguajes y herramientas:</h3>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
