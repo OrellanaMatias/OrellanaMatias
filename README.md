@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ISOckXUybVfQ4/giphy.gif" width="200" />
-</div>
 <h1 align="center">Matias Orellana</h1>
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrellanaMatias&theme=dark&show_icons=true&hide_border=true&layout=compact" />
