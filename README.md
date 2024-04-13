@@ -5,7 +5,6 @@
 <h3 align="left"> Sobre mi:</h3>
 <ul>
   <li> 🌍 Argentina, Buenos Aires </li>
-  <li> 🌱 Todos los dias aprendiendo nuevas tecnologias 🚀.  </li>
   <li> 📫 Contacto: <a href="mailto:meorellanaramirez@gmail.com">meorellanaramirez@gmail.com</a> </li>
   <li> 📄 Mi portafolio web <a href="https://orellanamatias.com.ar" target="_blank" rel="noopener noreferrer"> Orellana Matias | Portafolio</a></li>
 </ul>
