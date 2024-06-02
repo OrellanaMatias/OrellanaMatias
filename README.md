@@ -3,5 +3,4 @@
 <h1 align="center">Skills</h1>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,bootstrap,sass,tailwind,less,jquery,nodejs,astro,react,redux,threejs,mysql,sqlite,express,figma,ai,ps,git,github,c,cs,dotnet,py,arduino,vscode,visualstudio&perline=10" />
-  </a>
 </p>
