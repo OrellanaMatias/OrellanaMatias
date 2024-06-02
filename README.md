@@ -1,6 +1,6 @@
 <h1 align="center"><b><a href="https://orellanamatias.com.ar">Orellana Matias</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OrellanaMatias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OrellanaMatias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
