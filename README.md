@@ -8,9 +8,9 @@ Matias Orellana, 18 años, Técnico en Informática
 
 ## 💬 Contacto
 
-- 📧 **Correo:** [meorellanaramirez@gmail.com](mailto:meorellanaramirez@gmail.com)  
-- 🌐 **Página Web:** [orellanamatias.com.ar](https://orellanamatias.com.ar)  
-- 💼 **LinkedIn:** [linkedin.com/in/orellana-matias](https://linkedin.com/in/orellana-matias)  
+📧 **Correo:** [meorellanaramirez@gmail.com](mailto:meorellanaramirez@gmail.com)  
+🌐 **Página Web:** [orellanamatias.com.ar](https://orellanamatias.com.ar)  
+💼 **LinkedIn:** [linkedin.com/in/orellana-matias](https://linkedin.com/in/orellana-matias)  
 
 
 ## 📌 Lenguajes de Programación
