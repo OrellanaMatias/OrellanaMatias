@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/njPdRtrrdyoVO/giphy.gif?cid=790b7611pxi0gvpi1bpqaca6xdmjh2v5wesx9yma1uiw64dj&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF animado" width="300">
-</p>
-
 ## 👤 Sobre Mí
 
 Matias Orellana, 18 años, Técnico en Informática
